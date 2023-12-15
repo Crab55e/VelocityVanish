@@ -104,7 +104,7 @@ dependencies {
     compileOnly("com.discordsrv:discordsrv:1.26.2")
     compileOnly("com.mojang:authlib:1.11")
     compileOnly("io.netty:netty-all:4.1.101.Final")
-    compileOnly("net.william278:velocitab:1.5.1")
+    compileOnly("net.william278:velocitab:1.5.2")
 
     // SayanChat 2.8.1
     // ProCosmetics
